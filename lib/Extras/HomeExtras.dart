@@ -91,7 +91,7 @@ topBox(){
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text('Politics . Trending', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 12.0, color: Colors.black54),),
-                Icon(Icons.keyboard_arrow_down_rounded)
+                Icon(Icons.keyboard_arrow_down_rounded, color: Colors.black54, size: 20.0)
               ],
             ),
             Text('Dislike', style: TextStyle(fontWeight: FontWeight.w600, fontSize: 15.0, color: Colors.black),),
@@ -111,7 +111,7 @@ topBox(){
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text('Trending in India', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 12.0, color: Colors.black54),),
-                Icon(Icons.keyboard_arrow_down_rounded)
+                Icon(Icons.keyboard_arrow_down_rounded, color: Colors.black54, size: 20.0,)
               ],
             ),
             Text('#DurexInvisible', style: TextStyle(fontWeight: FontWeight.w600, fontSize: 15.0, color: Colors.black),),

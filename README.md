@@ -18,9 +18,10 @@ NOTE: This is not a Responsive website
 
 
 ## The Output😉
-<img align='left' src="assets/screenshot.png">
+<img src="assets/screenshot.png">
 
-##  .
+##  Image from Twitter😍
+<img src="assets/screenshot2.png">
 
 ## Support😄
 If you like this project, then don't forget to give it a ⭐
